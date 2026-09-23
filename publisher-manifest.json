@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "85c30d3b8ebd1a0b82a7ce69",
+  "owner": "bpqdvaagak",
+  "repo": "page-1211e23b1383687d22855858",
+  "title": "飞鸟云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1211e23b1383687d22855858",
+      "a": "飞鸟云",
+      "b": "2027最新官网",
+      "entity": "飞鸟云",
+      "brand": "飞鸟云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "1cb586e8cac019ab0c57ad4c3ba5b3ed43038840a50502355ccd174b934ce98e",
+      "content": {
+        "primary_entity": "飞鸟云",
+        "keyword1": "飞鸟云",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择 Clash、Shadowrocket、v2rayN 等客户端，依文档导入订阅。",
+          "AI_CLIENTS_TITLE": "设备与客户端",
+          "AI_CLOSING_TEXT": "选好套餐，打开客户端完成订阅配置，即刻开始使用。",
+          "AI_CLOSING_TITLE": "开始飞鸟云加速体验",
+          "AI_DESCRIPTION": "，飞鸟云提供基础版、旗舰版与团队版三档套餐，月流量从 100GB 到 1000GB，支持 3 至 20 台设备同时在线。入门用户可从基础版起步，兼顾流媒体与日常浏览；游戏玩家可关注旗舰版的 IPLC 专线优化；团队协作则适合团队版的高带宽节点与定制路由。按年付可节省两个月费用，搭配 Clash、Shadowrocket 等客户端导入订阅即可使用。",
+          "AI_FEATURES_INTRO": "从流量、设备数与线路三个维度了解套餐差异，便于快速选择。",
+          "AI_FEATURES_TITLE": "套餐与使用方式",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备，适合单人日常浏览与基础流媒体。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB、5 台设备，含 IPLC 专线与全节点流媒体解锁。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB、20 台设备，支持定制路由与专属客户经理。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TITLE_2": "多设备支持",
+          "AI_FEATURE_TITLE_3": "团队协同方案",
+          "AI_GUIDE_INTRO": "确认设备数量与月流量需求，再依客户端文档完成订阅配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "飞鸟云面向需要稳定海外加速的用户，提供基础版、旗舰版与团队版三档套餐，覆盖 3 至 20 台设备在线需求，流量从每月 100GB 到 1000GB，并针对流媒体与游戏场景优化线路。",
+          "AI_HERO_SUBTITLE": "多档套餐灵活适配设备与流量",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人与团队",
+          "AI_HIGHLIGHT_2": "年付方案节省两个月费用",
+          "AI_HIGHLIGHT_3": "多客户端订阅导入支持",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与每月流量需求，在基础版、旗舰版与团队版中选定套餐。",
+          "AI_STEP_TEXT_2": "确认客户端兼容性与系统版本要求，准备订阅链接。",
+          "AI_STEP_TEXT_3": "在 Clash、Shadowrocket 或 v2rayN 中导入订阅，按文档完成连接配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "飞鸟云海外加速",
+          "AI_FAQ_ANSWER_1": "基础版支持3台设备同时在线，适合个人手机与电脑组合使用；旗舰版支持5台，满足家庭多设备；团队版支持20台，适合小型团队协作。",
+          "AI_FAQ_ANSWER_2": "飞鸟云提供月付和年付两种周期。基础版月付¥15，年付¥150；旗舰版月付¥35，年付¥350；团队版月付¥85，年付¥850。年付通常更划算，适合长期需求。",
+          "AI_FAQ_ANSWER_3": "旗舰版包含全节点原生流媒体解锁和IPLC专线游戏加速优化，基础版则提供基础流媒体解锁和普通线路节点池。",
+          "AI_FAQ_ANSWER_4": "选择套餐后，根据设备系统下载对应客户端，在客户端内扫描或粘贴订阅链接即可完成配置。",
+          "AI_FAQ_ANSWER_5": "团队版支持企业定制路由选项，并提供专属客户经理服务，适合有特定网络架构需求的团队。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐选择。",
+          "AI_FAQ_QUESTION_1": "一个套餐可以同时几台设备使用？",
+          "AI_FAQ_QUESTION_2": "月付和年付有什么区别？",
+          "AI_FAQ_QUESTION_3": "旗舰版比基础版多了哪些功能？",
+          "AI_FAQ_QUESTION_4": "如何配置客户端订阅？",
+          "AI_FAQ_QUESTION_5": "团队版是否支持定制化需求？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "jinlongyujc.com",
+    "host": "jinlongyujc.com"
+  },
+  "file_hashes": {
+    "index.html": "b4196dcd869aa5a411e92d0a5640bb7ee2dcb751b13225b735836cf13b2a882b",
+    "sitemap.xml": "b024578ccbf4f315026acc3a23fe68201eb3e5f725e58ae41d1a2eaecaf37935",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "aaa916b0903347714f166890ebdacf8642ef72e423296acd6b461811f29601bb",
+    "robots.txt": "4725dd85639007658e7aa4f4dd980db6525128094082a54e067f407a4cca318c",
+    "3ea6721384bf2c268e7a9fd6df504093.txt": "b92b9982c24e2d9ecafe75c1fa0054c82f2670bc2d996b72abba08a7209bbe7c"
+  },
+  "revision": "2e4e89bb42896cde148fccc631db6972c7f8db6bdff6f8db7394e6142dc17720"
+}
